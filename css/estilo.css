@@ -1,0 +1,9 @@
+#sección-1{
+    border: 2px dotted #1C6EA4;
+    outline-offset: 8px;;
+}
+.sección{} !important;
+/*la etiqueta !important le asigna urgencia a lo que va enlazado/*
+div{}
+/* códigos sacados desde cheatsheet.com */
+/* Se pueden editar los id, las class y los div generando cajas de distinto color/*
