@@ -1,3 +1,12 @@
+
+@media (max-width: 1200px)
+img {
+    width: 100%;
+    max-width: 100px;
+}
+@media (max-width: 600px)
+width: 100%;
+max-width: 100px;
 #sección-1{
     border: 2px dotted #1C6EA4;
     outline-offset: 8px;;
@@ -6,4 +15,7 @@
 /*la etiqueta !important le asigna urgencia a lo que va enlazado/*
 div{}
 /* códigos sacados desde cheatsheet.com */
+/*podemos utilizar imágenes .webp/*
+/*mediaquery siempre debe estar en hoja de estilo y puede tener más condicionantes/*
 /* Se pueden editar los id, las class y los div generando cajas de distinto color/*
+/*cuando se calcula ua imagen su tamaño en % es porque estamos trabajando en responsibidad, el pixel es para modular la imagen en si*/
